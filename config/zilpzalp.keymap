@@ -216,9 +216,9 @@
             label = "SYM";
 
             bindings = <
-                               &kp GRAVE      &kp DQT        &kp RA(LS(SEMI)) &kp LBRC       &kp RBRC       &kp BACKSLASH  &kp PIPE       &kp LT
+                               &kp GRAVE      &kp DQT        &kp RA(LS(SEMI)) &kp LBRC       &kp RBRC       &kp BACKSLASH  &kp PIPE       &kp SLASH
                 &kp EXCL       &kp AT         &kp HASH       &kp DOLLAR       &kp LPAR       &kp RPAR       &kp AMPERSAND  &kp ASTERISK   &kp PERCENT    &kp CARET
-                               &kp TILDE      &kp SQT        &kp UNDERSCORE                                 &kp MINUS      &kp PLUS       &kp EQUAL
+                               &kp TILDE      &kp QUESTION   &kp UNDERSCORE                                 &kp MINUS      &kp PLUS       &kp EQUAL
                                                              &kp LBKT         &kp RBKT       &trans         &trans
             >;
         };
